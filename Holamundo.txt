@@ -1,3 +1,6 @@
 Archivo hola mundo txt
 Ejemplo completo
 Estamos haciendo modificaciones en la herramienta web de git
+_____
+Estamos agregando cambios a uno de los archivos
+
